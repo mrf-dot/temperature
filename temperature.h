@@ -6,7 +6,7 @@
  * Example: Convert 20 C to F
  * INPUT: temp -c 20 -F
  * OUTPUT: 68
- * */
+ */
 #ifndef TEMPERATURE_H
 
 #define TEMPERATURE_H

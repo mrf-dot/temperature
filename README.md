@@ -4,7 +4,8 @@ Convert between different temperature units. lowercase flags denote origin tempe
 
 ## Example
 
+<pre>
 Convert 20 C to F:
 INPUT: `temperature -c 20 -F`
 OUTPUT: `68`
-*/
+</pre>
